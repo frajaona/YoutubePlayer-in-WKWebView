@@ -17,9 +17,9 @@
 		FC103F782265F44B004586E0 /* YouTubeiOSPlayerHelper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = YouTubeiOSPlayerHelper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC103F7B2265F44B004586E0 /* YouTubeiOSPlayerHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YouTubeiOSPlayerHelper.h; sourceTree = "<group>"; };
 		FC103F7C2265F44B004586E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FC103F832265F51F004586E0 /* WKYTPlayerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WKYTPlayerView.h; path = WKYTPlayerView/WKYTPlayerView.h; sourceTree = SOURCE_ROOT; };
-		FC103F842265F520004586E0 /* WKYTPlayerView.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = WKYTPlayerView.bundle; path = WKYTPlayerView/WKYTPlayerView.bundle; sourceTree = SOURCE_ROOT; };
-		FC103F852265F520004586E0 /* WKYTPlayerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WKYTPlayerView.m; path = WKYTPlayerView/WKYTPlayerView.m; sourceTree = SOURCE_ROOT; };
+		FC103F832265F51F004586E0 /* WKYTPlayerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WKYTPlayerView.h; path = YouTubeiOSPlayerHelper/WKYTPlayerView.h; sourceTree = SOURCE_ROOT; };
+		FC103F842265F520004586E0 /* WKYTPlayerView.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = WKYTPlayerView.bundle; path = YouTubeiOSPlayerHelper/WKYTPlayerView.bundle; sourceTree = SOURCE_ROOT; };
+		FC103F852265F520004586E0 /* WKYTPlayerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WKYTPlayerView.m; path = YouTubeiOSPlayerHelper/WKYTPlayerView.m; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
