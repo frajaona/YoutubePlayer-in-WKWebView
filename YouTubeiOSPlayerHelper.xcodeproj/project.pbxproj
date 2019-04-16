@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FC103F7D2265F44B004586E0 /* YouTubeiOSPlayerHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = FC103F7B2265F44B004586E0 /* YouTubeiOSPlayerHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FC103F862265F520004586E0 /* WKYTPlayerView.h in Headers */ = {isa = PBXBuildFile; fileRef = FC103F832265F51F004586E0 /* WKYTPlayerView.h */; };
+		FC103F862265F520004586E0 /* WKYTPlayerView.h in Headers */ = {isa = PBXBuildFile; fileRef = FC103F832265F51F004586E0 /* WKYTPlayerView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FC103F872265F520004586E0 /* WKYTPlayerView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = FC103F842265F520004586E0 /* WKYTPlayerView.bundle */; };
 		FC103F882265F520004586E0 /* WKYTPlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = FC103F852265F520004586E0 /* WKYTPlayerView.m */; };
 /* End PBXBuildFile section */
